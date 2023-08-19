@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: "Gretchen's Site",
+  tagline: 'The best people in life are free.',
+  url: 'https://github.com/eienma',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,9 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
+  organizationName: 'eienma', // Usually your GitHub org/user name.
+  projectName: 'Gretchen_blog', // Usually your repo name.
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -37,14 +36,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/eienma/Gretchen_blog',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/eienma/Gretchen_blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,21 +56,22 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: "Gretchen's Site",
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'doc',
+            type: 'docsVersionDropdown',
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
+            
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/eienma/Gretchen_blog',
             label: 'GitHub',
             position: 'right',
           },
@@ -81,33 +81,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
+            title: 'Blogs',
             items: [
               {
                 label: 'Blog',
@@ -115,7 +89,34 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/eienma',  
+              },
+
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: 'Spotify',
+                href: 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02/',
+              },
+              {
+                label: 'Billboard',
+                href: 'https://www.billboard.com/artist/taylor-swift/',
+              },
+              {
+                label: 'Taylor Swift',
+                href: 'https://www.taylorswift.com/',
+              },
+            ],
+          },
+          {
+            title: 'More',
+            items: [
+              {
+                label: 'Tutorial',
+                to: '/docs/intro',
               },
             ],
           },

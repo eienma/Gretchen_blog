@@ -1,17 +1,12 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+gretchen:
+  name: Gretchen Ma
+  title: a mad woman
+  url: https://github.com/eienma
+  image_url: https://avatars.githubusercontent.com/u/44118245?v=4
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+taylor:
+  name: Taylor Swift
+  title: American singer-songwriter
+  url: https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02
+  image_url: https://charts-static.billboard.com/img/2006/07/taylor-swift-824-344x344.jpg
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png

@@ -1,12 +1,8 @@
 ---
-slug: first-blog-post
-title: First Blog Post
-authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+slug: hello-world
+title: Hello, World!
+authors: gretchen
+tags: [hello]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Blog 主要用来记录霉霉的歌词，也可能会整理吉他和弦，其他随缘搬运。

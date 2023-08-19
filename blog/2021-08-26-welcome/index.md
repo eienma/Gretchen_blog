@@ -1,8 +1,9 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: welcome-and-test
+title: Welcome & Test
+
+authors: [taylor, gretchen]
+tags: [TaylorSwift, hello, Lyrics, test]
 ---
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
@@ -16,9 +17,9 @@ The blog post date can be extracted from filenames, such as:
 - `2019-05-30-welcome.md`
 - `2019-05-30-welcome/index.md`
 
-A blog post folder can be convenient to co-locate blog post images:
+A blog post folder can be convenient to co-locate blog post images (btw 1989TV 终于要来了！！！！！):
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+![Docusaurus Plushie](./td-po.jpg)
 
 The blog supports tags as well!
 
