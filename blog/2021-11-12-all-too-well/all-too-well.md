@@ -1,5 +1,5 @@
 ---
-slug: all-too-well(10-minute-version)
+slug: all-too-well-10-minute-version
 title: All Too Well (10 Minute Version)
 
 authors: [taylor]
