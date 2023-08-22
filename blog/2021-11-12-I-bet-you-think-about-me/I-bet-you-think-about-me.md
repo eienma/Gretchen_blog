@@ -3,7 +3,7 @@ slug: I-bet-you-think-about-me
 title: I Bet You Think About Me(feat.Chris Stapleton)
 
 authors: [taylor]
-tags: [TaylorSwift, Lyrics]
+tags: [TaylorSwift, Lyrics, RED(Taylor's Version)]
 ---
 
 [I Bet You Think About Me (Taylor's Version)](https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL).

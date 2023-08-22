@@ -1,9 +1,8 @@
 ---
 slug: all-too-well-10-minute-version
 title: All Too Well (10 Minute Version)
-
 authors: [taylor]
-tags: [TaylorSwift, Lyrics]
+tags: [TaylorSwift, Lyrics, RED(Taylor's Version)]
 ---
 
 [All Too Well](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi?si=d3c3975fa4734275).
