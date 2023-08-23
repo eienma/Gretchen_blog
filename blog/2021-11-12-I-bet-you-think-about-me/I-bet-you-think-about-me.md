@@ -38,6 +38,7 @@ When you realized I'm harder to forget than I was to leave
 And I bet you think about me
 
 ♪
+<!--truncate-->
 
 You grew up in a silver-spoon, gated community
 

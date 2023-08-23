@@ -50,6 +50,7 @@ So I'll take my time
 Are you ready for it?
 
 ♪
+<!--truncate-->
 
 Knew I was a robber first time that he saw me
 

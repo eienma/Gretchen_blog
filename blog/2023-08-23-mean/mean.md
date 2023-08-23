@@ -40,6 +40,7 @@ Someday, I'll be big enough so you can't hit me
 And all you're ever gonna be is mean
 
 Why you gotta be so mean?
+<!--truncate-->
 
 You, with your switching sides
 

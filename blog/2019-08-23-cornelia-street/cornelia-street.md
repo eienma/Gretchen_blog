@@ -50,6 +50,7 @@ I'd never walk Cornelia Street again
 I'd never walk Cornelia Street again
 
 ♪
+<!--truncate-->
 
 Windows ﬂung right open
 

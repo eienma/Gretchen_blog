@@ -45,6 +45,7 @@ Loves me like I'm brand new
 So call it what you want, yeah
 
 Call it what you want to
+<!--truncate-->
 
 All my flowers grew back as thorns
 
